@@ -1,0 +1,78 @@
+homepage.html:
+-------------
+<html>  
+    <head>
+        <title>Nathans Website</title>
+        <style>
+            h2 {
+                font-family: 'Brush Script MT', cursive;
+                font-size: 140px;
+                font-weight: bold;
+                color: white;
+                text-align: center;
+            }
+            p1 {
+                font-family: 'Brush Script MT', cursive;
+                font-size: 70px
+                font-style: underline;
+                color: grey;
+            }
+            body {
+                background-image: url("https://cdn4.vectorstock.com/i/thumb-large/83/98/technology-seamless-dark-pattern-vector-3428398.jpg");
+            
+            }
+            img {
+                border-right: 9px double #ffffff;
+                border-left: 9px double #ffffff;
+                border-top: 4px solid #ffffff;
+                border-bottom: 4px solid #ffffff;
+            }
+            h3 {
+                font-size: 30px;
+                color: white;
+                text-align: center;
+                font-style: italic;
+            }
+            h4 {
+                color: white;
+                text-align: center;
+            }
+            h5 {
+                color: #a6a0a0;
+                text-align: center;
+                font-size: 30px;
+            }
+        </style>
+    </head>
+<body>
+    <h2>Spongebob's <br> Obituary</h2>
+    <center><p1>By: Nathan Scott</p1></center>
+    <center><a href = "https://toppng.com/show_download/231138/bob-png-image-caveman-spongebob/large">
+        <img src = "https://toppng.com/public/uploads/thumbnail/bob-png-image-caveman-spongebob-115632714333hjlgpkcjv.png" alt="Sponge Bob"
+        width = "840px" height = "498px">
+        </a></center>
+    <h3>Rest In Peace<br>1999-2020</h3>
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/BG0onokd66w" title="YouTube video player" 
+    frameborder="0" allow="accelerometer; allow="autoplay"; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe></center>
+    <h4>You will always be remembered<br>😭</h4>
+    <center><h5>Please Support Our Moist Friend</h5></center>
+    <center>
+        <table style = "color:blue" border="5">
+            <tbody>
+                <tr>
+                    <td><a style = "color:white" href = "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)">    About Him   </a></td>
+                    <td><a style = "color:white" href = "https://www.paramountplus.com/ca/"> Financially Support His family  </a></td>
+                    <td><a style = "color:white" href = "https://html-1-5226976.codehs.me/questions.html">  Answers To Questions    </a></td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+    <br>
+</body>
+</html>
+
+link img:
+--------
+https://youtu.be/BG0onokd66w
+
